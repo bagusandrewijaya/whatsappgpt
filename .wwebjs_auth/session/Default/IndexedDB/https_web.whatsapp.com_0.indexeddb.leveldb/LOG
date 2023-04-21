@@ -1,0 +1,26 @@
+2023/04/21-11:37:05.613 4084 Reusing MANIFEST C:\Users\user\whatsappjs\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/21-11:37:05.613 4084 Recovering log #237
+2023/04/21-11:37:05.638 4084 Reusing old log C:\Users\user\whatsappjs\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000237.log 
+2023/04/21-12:31:09.361 9c0 Level-0 table #249: started
+2023/04/21-12:31:09.410 9c0 Level-0 table #249: 1208319 bytes OK
+2023/04/21-12:31:09.412 9c0 Delete type=0 #237
+2023/04/21-12:33:10.469 43c4 Compacting 1@1 + 8@2 files
+2023/04/21-12:33:10.585 43c4 Generated table #250@1: 48652 keys, 2220019 bytes
+2023/04/21-12:33:10.637 43c4 Generated table #251@1: 4615 keys, 2169845 bytes
+2023/04/21-12:33:10.720 43c4 Generated table #252@1: 7026 keys, 2176638 bytes
+2023/04/21-12:33:10.852 43c4 Generated table #253@1: 30991 keys, 2247509 bytes
+2023/04/21-12:33:10.951 43c4 Generated table #254@1: 22989 keys, 2181605 bytes
+2023/04/21-12:33:11.048 43c4 Generated table #255@1: 87220 keys, 2232372 bytes
+2023/04/21-12:33:11.169 43c4 Generated table #256@1: 104942 keys, 2254558 bytes
+2023/04/21-12:33:11.190 43c4 Generated table #257@1: 13152 keys, 278441 bytes
+2023/04/21-12:33:11.190 43c4 Compacted 1@1 + 8@2 files => 15760987 bytes
+2023/04/21-12:33:11.191 43c4 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/04/21-12:33:11.192 43c4 Delete type=2 #239
+2023/04/21-12:33:11.192 43c4 Delete type=2 #240
+2023/04/21-12:33:11.192 43c4 Delete type=2 #241
+2023/04/21-12:33:11.192 43c4 Delete type=2 #242
+2023/04/21-12:33:11.192 43c4 Delete type=2 #243
+2023/04/21-12:33:11.192 43c4 Delete type=2 #244
+2023/04/21-12:33:11.192 43c4 Delete type=2 #245
+2023/04/21-12:33:11.192 43c4 Delete type=2 #246
+2023/04/21-12:33:11.192 43c4 Delete type=2 #249
